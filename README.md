@@ -57,6 +57,8 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 - BootCamp Impulso JavaScript Evolution (Dio.me, 2022)
 - Bootcamp (Dio.me, 2022)
 - Mulheres em Tech (Kenzie e Brazilians in Tech, 2022)
+- Projeto Portifólio Full Stack + Agentes de IA (Formação DEV,2025)
+- Profissional de Mercado (Formação DEV, 2025)
 
 ---
 
@@ -81,7 +83,7 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 ---
 
 ## 🌍 **Idiomas**
-- Inglês - Level Up Experience (SaveMeTeacher, 2025)
+- Inglês - Level Up Experience (SaveMeTeacher, 2025) 
 - Francês Básico (UENP, 2020)
 
 ---
