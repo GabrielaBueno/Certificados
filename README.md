@@ -59,6 +59,7 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 - Mulheres em Tech (Kenzie e Brazilians in Tech, 2022)
 - Projeto Portifólio Full Stack + Agentes de IA (Formação DEV, 2025)
 - Profissional de Mercado (Formação DEV, 2025)
+- Semana do Zero ao Programador (Dev Em Dobro, 2025)
 
 ---
 
