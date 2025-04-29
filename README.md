@@ -61,6 +61,7 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 - Profissional de Mercado (Formação DEV, 2025)
 - Semana do Zero ao Programador (Dev Em Dobro, 2025)
 - Imersão Dev 9ª Edição (Alura, 2025)
+- Imersão Mobile (Alura, 2025)
 
 ---
 
