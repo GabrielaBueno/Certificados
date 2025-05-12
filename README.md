@@ -98,6 +98,7 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 
 * **Monitora de Informática Básica - Grupo ELLP UTFPR** (2018, 2019, 2020, 2023)
 * **Monitora de Robótica - Grupo ELLP UTFPR** (2018)
+* **Assessora de Marketing - Unect Jr** (2021)
 
 ---
 
