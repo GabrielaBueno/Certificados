@@ -64,7 +64,8 @@ Este repositório contém uma coleção de certificados e experiências adquirid
 ---
 
 ## 🎓 **Bootcamps e Capacitações**
-
+* Informática (Escola de treinamentos e informática, 2011)
+* Auxiliar Financeiro (Senac, 2015)
 * BootCamp GFT Start Java (Dio.me, 2021)
 * BootCamp Aceleração Global Designer Inter (Órbi Academy, 2021)
 * BootCamp Impulso JavaScript Evolution (Dio.me, 2022)
